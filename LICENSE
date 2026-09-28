@@ -1,0 +1,57 @@
+مخزون الطبعات — رخصة الاستخدام
+print-stock — Licence to Use
+
+Copyright (c) 2026 relifeg1. All rights reserved.
+
+═══════════════════════════════════════════════════════════════
+العربية
+═══════════════════════════════════════════════════════════════
+
+هذا البرنامج يُستخدم ويُنسخ ويُهدى **مجانًا**، لأي شخص، لأي غرض —
+شخصيًّا أو تجاريًّا — بلا إذنٍ مسبق وبلا مقابل.
+
+ويُشترط:
+
+  ١. أن يُنسخ كما هو، بلا تعديلٍ في البرنامج ولا إزالةٍ لهذا الملف.
+  ٢. ألّا يُباع البرنامج نفسه، ولا يُقدَّم على أنه من عمل غير صاحبه.
+
+وشيفرة المصدر **غير مشمولة** بهذه الرخصة ولا تُنشر معها.
+
+⚠️ بلا أي ضمان
+   يُقدَّم البرنامج «كما هو»، بلا ضمانٍ من أي نوع — لا لصلاحيته لغرضٍ
+   معيّن، ولا لسلامة بياناتك، ولا لخلوّه من الأعطال. ولا يُسأل صاحبه عن
+   أي خسارةٍ أو تلفِ بياناتٍ أو ضررٍ مباشرٍ أو غير مباشر ينشأ عن
+   استخدامه.
+
+   **وبياناتك مسؤوليتك**: البرنامج يكتب نسخةً احتياطية عند كل تشغيل وكل
+   ٢٤ ساعة في مجلد `backups`، لكن حفظَها في مكانٍ ثانٍ يبقى عليك. ومن
+   يمسك مخزون رزقه ببرنامجٍ واحدٍ على جهازٍ واحد يجب أن يعرف ذلك.
+
+═══════════════════════════════════════════════════════════════
+English
+═══════════════════════════════════════════════════════════════
+
+You may use, copy and give away this software **free of charge**, for
+any purpose, personal or commercial, without asking permission.
+
+Conditions:
+
+  1. Redistribute it unmodified, with this file intact.
+  2. Do not sell the software itself, and do not present it as your
+     own work.
+
+Source code is **not** covered by this licence and is not distributed
+with it.
+
+⚠️ NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+   CLAIM, DAMAGES, DATA LOSS OR OTHER LIABILITY, WHETHER IN AN ACTION
+   OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+   Your data is your responsibility. The app writes a backup on every
+   start and every 24h into `backups`, but keeping a copy somewhere
+   else is up to you.
