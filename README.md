@@ -9,12 +9,12 @@
 نظام مخزون لمشاريع الطباعة ثلاثية الأبعاد بطابعات Bambu Lab —
 واجهة عربية بالكامل، ويعمل على جهازك بلا إنترنت ولا حساب.
 
-[![تنزيل](https://img.shields.io/badge/تنزيل-آخر_إصدار-14806b?style=for-the-badge)](https://github.com/relifeg1/print-stock-releases/releases/latest)
+[![تنزيل](https://img.shields.io/badge/Download-latest_release-14806b?style=for-the-badge)](https://github.com/relifeg1/print-stock-releases/releases/latest)
 
-![Windows](https://img.shields.io/badge/Windows-بلا_تثبيت-14806b)
-![Bambu Lab](https://img.shields.io/badge/Bambu_Lab-مدعومة-14806b)
-![RTL](https://img.shields.io/badge/واجهة-عربية-14806b)
-![مجاني](https://img.shields.io/badge/مجاني-للاستخدام-14806b)
+![Windows](https://img.shields.io/badge/Windows-no_install-14806b)
+![Bambu Lab](https://img.shields.io/badge/Bambu_Lab-supported-14806b)
+![RTL](https://img.shields.io/badge/UI-Arabic_RTL-14806b)
+![مجاني](https://img.shields.io/badge/Free-to_use-14806b)
 
 <img src="screenshots/home.png" alt="الصفحة الرئيسية: ما ينتظر، وقيمة المخزون، وما ينفد قريبًا، وآخر الحركات" width="900">
 
