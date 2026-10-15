@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/icon.png" width="88" alt="">
+<img src="screenshots/logo.svg" width="96" alt="">
 
 # مخزون الطبعات · print-stock
 
